@@ -1,0 +1,28 @@
+{
+    "gamesList": [
+    {
+      "title": "النسخه العالميه",
+      "package": "com.tencent.ig",
+      "version": "4.4.0",
+      "status": "امن"
+    },
+    {
+      "title": "النسخه الكوريه",
+      "package": "com.pubg.krmobile",
+      "version": "4.4.0",
+      "status": "امن"
+    },
+      {
+        "title": "النسخه الفيتناميه",
+        "package": "com.vng.pubgmobile",
+        "version": "4.4.0",
+        "status": "امن"
+      },
+    {
+      "title": "النسخه التايونيه",
+      "package": "com.rekoo.pubgm",
+      "version": "4.4.0",
+      "status": "امن"
+    },
+  ]
+}
